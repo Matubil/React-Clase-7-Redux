@@ -1,0 +1,5 @@
+redux soluciona un tema que es el de compartir estados entre distintos componentes, nosotros vimos prop filling
+lo que vamos a ver es como compartir datos entre los distintos componentes de react, es lo que hace a una app de react
+mas compleja
+
+la arquitectura, es la implementacion de un patron de arquitectura llamado FLUX (es como una alternativa MVC)
